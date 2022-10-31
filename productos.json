@@ -1,0 +1,28 @@
+
+ [{
+ 
+     "id" : 1,
+     "nombreartista" : "Javier Laporte",
+     "cancion":"Deep Fall",
+     "precio": 1.29,
+     "thumbnailurl": "img/baltimo.jpg"
+     },
+{
+     "id" : 2,
+     "nombreartista" : "Juan Deminicis",
+     "cancion":"Lighting",
+     "precio": 1.29,
+     "thumbnailurl": "img/salazar.jpg"
+
+},
+{
+     "id" : 3,
+     "nombreartista" : "Alex Orion",
+     "cancion":"Particles",
+     "precio": 1.29,
+     "thumbnailurl": "img/sunprogress.jpg"
+}
+]
+
+ 
+
